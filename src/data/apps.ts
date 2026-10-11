@@ -65,6 +65,17 @@ export const APPS: App[] = [
     publishedAt: "2026-10-05",
     popularity: 62,
   },
+  {
+    id: "yours-ninja",
+    name: "Yours Ninja",
+    domain: "www.yours.ninja",
+    url: "https://www.yours.ninja/",
+    slogan: "Creating a life that's too colorful to overlook.",
+    icon: "/apps/yoursninja-icon.svg",
+    card: "/apps/yoursninja-card.svg",
+    publishedAt: "2026-10-11",
+    popularity: 60,
+  },
 ];
 
 export function getApps(): App[] {

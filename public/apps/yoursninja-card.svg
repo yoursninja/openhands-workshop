@@ -1,0 +1,17 @@
+<svg width="320" height="196" viewBox="0 0 320 196" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="yn-bg" x1="0" y1="0" x2="320" y2="196" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0E3D2A"/>
+<stop offset="1" stop-color="#14493A"/>
+</linearGradient>
+</defs>
+<rect width="320" height="196" rx="28" fill="url(#yn-bg)"/>
+<circle cx="252" cy="70" r="38" fill="#F1FF46" fill-opacity="0.9"/>
+<circle cx="296" cy="120" r="26" fill="#FFA048" fill-opacity="0.95"/>
+<circle cx="238" cy="144" r="22" fill="#FFC0C5" fill-opacity="0.9"/>
+<circle cx="288" cy="46" r="15" fill="#29A174" fill-opacity="0.95"/>
+<rect x="214" y="30" width="10" height="10" rx="2" transform="rotate(24 219 35)" fill="#F4F0E9" fill-opacity="0.85"/>
+<path d="M40 52V34L64 52V34" stroke="#F4F0E9" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="40" y="102" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="bold" fill="#F4F0E9">Yours Ninja</text>
+<text x="40" y="128" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#F1FF46">too colorful to overlook</text>
+</svg>
